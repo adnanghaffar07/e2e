@@ -1,7 +1,7 @@
 #Python Test:
 
 
-##This test is written in python for Iorad UI Automation.
+##This test is written in python for UI Automation.
 
 ### Prerequisities
 1. Create a vene using command line or terminal :
