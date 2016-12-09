@@ -1,4 +1,4 @@
-#Iorad Test:
+#Python Test:
 
 
 ##This test is written in python for Iorad UI Automation.
